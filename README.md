@@ -30,6 +30,7 @@ User Frontend (Wavy-Frontend) ──► REST API (Wavy-Backend) ──► MongoD
           │                               ▼
   Admin Panel (Wavy-Admin) ◄──── Auth Middleware (JWT)
 ```
+
 ---
 
 ## 🔄 Application Workflow
