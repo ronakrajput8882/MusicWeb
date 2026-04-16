@@ -106,7 +106,6 @@ MusicWeb/
 ├── .gitignore
 └── README.md
 ```
-
 ---
 
 ## 🚀 Quick Start
