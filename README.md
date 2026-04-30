@@ -1,17 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=🎵%20Wavy%20-%20Music%20Web&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Music%20Streaming%20Platform%20|%20React%20+%20Node.js%20+%20MongoDB&descAlignY=60&descAlign=50" width="100%"/>
+# ML Project
 
-<div align="center">
+> Built by [Ronak Rajput](https://github.com/ronakrajput8882) | AIML Engineer
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![CSS3](https://img.shields.io/badge/CSS3-3.5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
+## Overview
+End-to-end machine learning project covering EDA, preprocessing, model training, evaluation, and deployment.
 
-</div>
+## Stack
+- Python · Pandas · Scikit-learn · Streamlit · Matplotlib
 
+<<<<<<< HEAD
 ---
 
 ## 📌 Project Overview
@@ -197,3 +194,8 @@ npm run dev
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer" width="100%"/>
 
 </div>
+=======
+## Links
+- [LinkedIn](https://www.linkedin.com/in/ronaksinh-rajput8882/)
+- [Instagram](https://www.instagram.com/techwithronak)
+>>>>>>> 0404013 (docs: update README with project overview)
